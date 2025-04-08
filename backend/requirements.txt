@@ -1,0 +1,4 @@
+Flask
+Flask-Cors
+ortools # JSON handling (optional, Python's built-in json module works)
+  # Part of Python standard library (no need to install separately)
